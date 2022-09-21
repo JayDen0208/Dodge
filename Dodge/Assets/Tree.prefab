@@ -72,6 +72,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 9187651164941960675}
+  - {fileID: 5595983763030045406}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -958,19 +959,19 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpSpecMap:
-        m_Texture: {fileID: 2800000, guid: cffd947a7bab74646b991f2bae2239e5, type: 3}
+        m_Texture: {fileID: 2800000, guid: d12df661f4322954790adbd8cd723671, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e96a66963721dd4409ade6e6d51e0273, type: 3}
+        m_Texture: {fileID: 2800000, guid: 752080eeb99783748a05d1e470593649, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowTex:
-        m_Texture: {fileID: 2800000, guid: 01896651ef9c44648a63b61e76e24a59, type: 3}
+        m_Texture: {fileID: 2800000, guid: 251239f44b52a0949a1680c80725652e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TranslucencyMap:
-        m_Texture: {fileID: 2800000, guid: 23df041431777184796f2c4bf465358b, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbeec72b5999950468a9d9fa891a5e34, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -1007,15 +1008,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpSpecMap:
-        m_Texture: {fileID: 2800000, guid: cffd947a7bab74646b991f2bae2239e5, type: 3}
+        m_Texture: {fileID: 2800000, guid: d12df661f4322954790adbd8cd723671, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e96a66963721dd4409ade6e6d51e0273, type: 3}
+        m_Texture: {fileID: 2800000, guid: 752080eeb99783748a05d1e470593649, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TranslucencyMap:
-        m_Texture: {fileID: 2800000, guid: 23df041431777184796f2c4bf465358b, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbeec72b5999950468a9d9fa891a5e34, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []

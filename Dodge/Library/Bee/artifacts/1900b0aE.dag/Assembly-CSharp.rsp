@@ -398,9 +398,10 @@
 "Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Runtime/Utils/MaterialFactory.cs"
 "Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Runtime/Utils/RenderTextureFactory.cs"
 "Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
-"Assets/Bullet.cs"
-"Assets/BulletSpawner.cs"
-"Assets/PlayerController.cs"
+"Assets/02.Scripts/Bullet.cs"
+"Assets/02.Scripts/BulletSpawner.cs"
+"Assets/02.Scripts/PlayerController.cs"
+"Assets/Rotator.cs"
 "Assets/Whale3D/Script/BaseMesh.cs"
 "Assets/Whale3D/Script/PlayANim.cs"
 -langversion:9.0
