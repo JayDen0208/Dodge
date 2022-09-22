@@ -400,6 +400,7 @@
 "Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
 "Assets/02.Scripts/Bullet.cs"
 "Assets/02.Scripts/BulletSpawner.cs"
+"Assets/02.Scripts/GameManager.cs"
 "Assets/02.Scripts/PlayerController.cs"
 "Assets/02.Scripts/Rotator.cs"
 "Assets/05.Materials/Whale3D/Script/BaseMesh.cs"
