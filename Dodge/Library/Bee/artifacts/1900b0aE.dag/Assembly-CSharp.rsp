@@ -401,9 +401,9 @@
 "Assets/02.Scripts/Bullet.cs"
 "Assets/02.Scripts/BulletSpawner.cs"
 "Assets/02.Scripts/PlayerController.cs"
-"Assets/Rotator.cs"
-"Assets/Whale3D/Script/BaseMesh.cs"
-"Assets/Whale3D/Script/PlayANim.cs"
+"Assets/02.Scripts/Rotator.cs"
+"Assets/05.Materials/Whale3D/Script/BaseMesh.cs"
+"Assets/05.Materials/Whale3D/Script/PlayANim.cs"
 -langversion:9.0
 
 /deterministic
