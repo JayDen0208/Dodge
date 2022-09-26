@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRigidbody; // 이동에 사용할 리지드바디 컴포넌트
     public float speed = 8f; // 이동속력
+
     void Start()
     {
         // 게임 오브젝트에서 Rigidbody 컴포넌트를 찾아서
@@ -28,6 +29,9 @@ public class PlayerController : MonoBehaviour
         Vector3 newVelocity = new Vector3(xSpeed, 0f, zSpeed);
         // 리지드바디의 속도에 newVelocity 할당
         playerRigidbody.velocity = newVelocity;
+
+
+
     }
     public void Die()
     {
